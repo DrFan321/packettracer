@@ -1,0 +1,6 @@
+﻿# Packet Tracer temp/lock/autosave files
+*.pkt.lock
+*.pka.lock
+~$*
+*.tmp
+Thumbs.db
